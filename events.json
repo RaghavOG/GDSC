@@ -1,0 +1,59 @@
+{
+    "links": {
+      "next": "https://gdsc.community.dev/api/event_slim/for_chapter/863/?fields=title%2Cstart_date%2Cevent_type_title%2Ccropped_picture_url%2Ccropped_banner_url%2Curl%2Ccohost_registration_url%2Cdescription%2Cdescription_short&include_cohosted_events=true&order=-start_date&page=2&page_size=4&status=Completed&visible_on_parent_chapter_only=true",
+      "previous": null
+    },
+    "pagination": {
+      "previous_page": null,
+      "current_page": 1,
+      "next_page": 2,
+      "page_size": 500
+    },
+    "count": 65,
+    "results": [
+      {
+        "cohost_registration_url": "https://gdsc.community.dev/events/details/developer-student-clubs-chitkara-university-chandigarh-presents-cyber-security-safeguarding-against-cyber-attack/",
+        "cropped_banner_url": "https://res.cloudinary.com/startup-grind/image/upload/c_scale,w_2560/c_crop,h_640,w_2560,y_0.0_mul_h_sub_0.0_mul_640/c_crop,h_640,w_2560/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/event_banners/banner_EtWIhHa.png",
+        "cropped_picture_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,w_500,h_500,g_center/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/events/WhatsApp%20Image%202024-04-01%20at%209.07.43%20PM.jpeg",
+        "description": "\u003Cp\u003EThe Google Developer Student Clubs, in collaboration with the Department of Computer Science and Engineering at CUIET, presents an enriching session titled \"Cyber Security: Safeguarding against Cyber Attack\" on April 18, 2024, at 1:30 p.m. in Pierre Hall, Chitkara University, Rajpura, Punjab. This session aims to provide practical insights into cybersecurity measures and strategies to mitigate cyber attacks. Our distinguished speaker, Tarun Malhotra, Cyber Security, Compliance Consultant &amp; Auditor, Founder &amp; MD Cyber Cops, will share his expertise and experiences to guide the students towards success in these domains. \u003Cbr\u003E\u003Cbr\u003ENOTE : THIS SESSION IS ONLY FOR CHITKARA UNIVERSITY STUDENTS\u003C/p\u003E",
+        "description_short": "The Google Developer Student Clubs, in collaboration with the Department of Computer Science and Engineering at CUIET, presents an enriching session titled \"Cyber Security: Safeguarding against Cyber Attack\" on April 18, 2024, at 1:30 p.m. in Pierre Hall, Chitkara University, Rajpura, Punjab. ",
+        "event_type_title": "Speaker Session / Tech Talk",
+        "start_date": "2024-04-18T08:00:00Z",
+        "title": "Cyber Security: Safeguarding Against Cyber Attack",
+        "url": "https://gdsc.community.dev/events/details/developer-student-clubs-chitkara-university-chandigarh-presents-cyber-security-safeguarding-against-cyber-attack/"
+      },
+      {
+        "cohost_registration_url": "https://gdsc.community.dev/events/details/developer-student-clubs-chitkara-university-chandigarh-presents-exploring-aws-hands-on-workshop-on-ec2-and-s3-services/",
+        "cropped_banner_url": "https://res.cloudinary.com/startup-grind/image/upload/c_scale,w_2560/c_crop,h_640,w_2560,y_0.0_mul_h_sub_0.0_mul_640/c_crop,h_640,w_2560/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/event_banners/banner_dlHHYae.png",
+        "cropped_picture_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,w_500,h_500,g_center/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/events/WhatsApp%20Image%202024-03-31%20at%2010.56.13%20PM.jpeg",
+        "description": "\u003Cp\u003EThe Google Developer Student Clubs, in collaboration with the Department of Computer Science and Engineering at CUIET, presents an enriching session titled \"Exploring AWS: Hands-on Workshop on EC2 and S3 Services\" starting on April 10, 2024, at 1:30 pm onwards, conducted online. This session will delve into practical aspects of utilizing Amazon Web Services, specifically focusing on EC2 and S3 services. Our distinguished speaker, Dr. Puneet Sharma, Associate Professor and Associate Dean of Cloud Computing and DevOps at the School of Computer Science and Artificial Intelligence, SR University, Warangal, Telangana, India, will share his expertise and experiences to guide the students towards success in these domains. \u003Cbr\u003E\u003Cbr\u003ENOTE : THIS EVENT IS ONLY FOR CHITKARA UNIVERSITY STUDENTS\u003C/p\u003E",
+        "description_short": "The Google Developer Student Clubs, in collaboration with the Department of Computer Science and Engineering at CUIET, presents an enriching session titled \"Exploring AWS: Hands-on Workshop on EC2 and S3 Services\" starting on April 10, 2024, at 1:30 pm onwards, in online mode.",
+        "event_type_title": "Workshop / Study Group",
+        "start_date": "2024-04-10T08:00:00Z",
+        "title": "Exploring AWS: Hands-on Workshop on EC2 and S3 Services",
+        "url": "https://gdsc.community.dev/events/details/developer-student-clubs-chitkara-university-chandigarh-presents-exploring-aws-hands-on-workshop-on-ec2-and-s3-services/"
+      },
+      {
+        "cohost_registration_url": "https://gdsc.community.dev/events/details/developer-student-clubs-chitkara-university-chandigarh-presents-mapping-the-future-navigating-remote-careers-and-devsecops/",
+        "cropped_banner_url": "https://res.cloudinary.com/startup-grind/image/upload/c_scale,w_2560/c_crop,h_640,w_2560,y_0.0_mul_h_sub_0.0_mul_640/c_crop,h_640,w_2560/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/event_banners/banner_YdM2bCG.png",
+        "cropped_picture_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,w_500,h_500,g_center/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/events/Devops%20event%20%281%29.png",
+        "description": "\u003Cp\u003EThe Google Developer Student Clubs, in collaboration with the Department of Computer Science and Engineering at CUIET, presents an enriching session titled \"Mapping the Future: Navigating Remote Careers and DevSecOps\" on March 28th, 2024, starting from 9:30 am onwards at Pierre Hall, Le Corbusier Block, Chitkara University, Rajpura, Punjab. This session aims to provide valuable insights into the ever-evolving landscape of remote careers and the integration of DevSecOps practices in software development. Our distinguished speaker, Mr. Anmol Virdi, Software Development Consultant at RapidFort Inc, Sunnyvale, California, and former ISRO and Oracle employee, will share his expertise and experiences to guide the students towards success in these domains. \u003Cbr\u003E\u003Cbr\u003ENOTE: THIS EVENT IS ONLY FOR CHITKARA UNIVERSITY STUDENTS.\u003C/p\u003E",
+        "description_short": "The Google Developer Student Clubs, in collaboration with the Department of Computer Science and Engineering at CUIET, presents an enriching session titled \"Mapping the Future: Navigating Remote Careers and DevSecOps\" on March 28th, 2024, starting from 9:30 am onwards at Pierre Hall, Le Corbusier Block, Chitkara University, Rajpura, Punjab. ",
+        "event_type_title": "Speaker Session / Tech Talk",
+        "start_date": "2024-03-28T04:00:00Z",
+        "title": "Mapping the Future : Navigating Remote Careers and DevSecOps",
+        "url": "https://gdsc.community.dev/events/details/developer-student-clubs-chitkara-university-chandigarh-presents-mapping-the-future-navigating-remote-careers-and-devsecops/"
+      },
+      {
+        "cohost_registration_url": "https://gdsc.community.dev/events/details/developer-student-clubs-chitkara-university-chandigarh-presents-intelligence-of-things-for-smart-society-challenges-and-applications/",
+        "cropped_banner_url": "https://res.cloudinary.com/startup-grind/image/upload/c_scale,w_2560/c_crop,h_640,w_2560,y_0.0_mul_h_sub_0.0_mul_640/c_crop,h_640,w_2560/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/event_banners/banner_ZBe3yYW.png",
+        "cropped_picture_url": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,w_500,h_500,g_center/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/events/WhatsApp%20Image%202024-02-25%20at%2005.47.24_b317d8c1.jpg",
+        "description": "\u003Cp\u003EGreetings! 🚀\u003C/p\u003E\u003Cp\u003EThe Department of Computer Science and Engineering, CUIET, in collaboration with Google Developer Student Clubs, CUIET, invites you to an insightful session titled 'Intelligence of Things for Smart Society: Challenges and Applications'! 🧠\u003C/p\u003E\u003Cp\u003EEvent Details:\u003C/p\u003E\u003Cp\u003E🗓 Date: March 1, 2024\u003C/p\u003E\u003Cp\u003E🕔 Time: Starting from 5:30 p.m.\u003C/p\u003E\u003Cp\u003E📍 Mode: Online\u003C/p\u003E\u003Cp\u003EJoin us as we explore the fascinating realm of Smart Society and the Intelligence of Things. Our esteemed speaker, Dr. Chinmay Chakraborty brings a wealth of expertise as an Assistant Professor (Selection Grade) at Birla Institute of Technology, Mesra. With roles as Associate Editor at IEEE Transactions on Industrial Informatics, Lead Guest Editor at ACM, and Guest Editor at Springer Nature, Dr. Chakraborty offers valuable insights. Additionally, his experiences as a Postdoctoral Scholar at UFPI- Federal Piaui University, Teresina, Brazil, and being ranked in the top 2% of scientists in the world in the field of \"Artificial Intelligence and Image Processing\" at Stanford University from 2021 to 2023 will enrich our discussion on fostering innovation and building a successful career in this dynamic field.\u003C/p\u003E\u003Cp\u003EDon't miss out on this opportunity to delve into the challenges and applications of the Intelligence of Things for a smarter society! 🌟\u003Cbr\u003E\u003Cbr\u003ENOTE : THIS EVENT IS ONLY FOR CHITKARA UNIVERSITY, RAJPURA STUDENTS.\u003C/p\u003E",
+        "description_short": "The Department of Computer Science and Engineering, CUIET, in collaboration with Google Developer Student Clubs, CUIET, presents an enriching session titled 'Intelligence of Things for Smart Society: Challenges and Applications' on 1st March, 2024, starting from 5:30 p.m. in online mode. ",
+        "event_type_title": "Speaker Session / Tech Talk",
+        "start_date": "2024-03-01T12:00:00Z",
+        "title": "Intelligence of Things for Smart Society: Challenges and Applications",
+        "url": "https://gdsc.community.dev/events/details/developer-student-clubs-chitkara-university-chandigarh-presents-intelligence-of-things-for-smart-society-challenges-and-applications/"
+      }
+    ]
+  }
