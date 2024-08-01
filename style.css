@@ -240,9 +240,20 @@ ul {
   object-fit: cover;
 }
 
+.about-1 .right img{
+  margin-top: 28px;
+  border-radius: 2rem;
+  backdrop-filter: blur(10px);
+  backdrop-filter:  drop-shadow(4px 4px 10px blue);
+}
+
+.about-1 {
+  margin-top: 8.5vh;
+}
 .about-2 {
   flex-direction: row-reverse;
 }
+
 .about-2 .right img {
   margin-right: 21rem;
 }
