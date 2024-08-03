@@ -14,7 +14,6 @@ document.body.addEventListener('mousemove', (event) => {
 
 // Adjust cursor z-index on form focus
 
-// Temporarily disable cursor for form elements
 document.querySelectorAll('input, textarea').forEach(element => {
     element.addEventListener('focus', () => {
         cursor.style.display = 'none'; // Hide cursor
@@ -23,6 +22,25 @@ document.querySelectorAll('input, textarea').forEach(element => {
     element.addEventListener('blur', () => {
         cursor.style.display = 'block'; // Show cursor
     });
+});
+
+
+// ACCORDIAN
+
+
+document.querySelectorAll('.accordion-button').forEach(button => {
+  button.addEventListener('click', () => {
+    button.classList.toggle('active');
+
+    const content = button.nextElementSibling;
+
+    // Toggle the display of the content
+    if (content.style.display === 'block') {
+      content.style.display = 'none';
+    } else {
+      content.style.display = 'block';
+    }
+  });
 });
 
 
